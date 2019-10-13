@@ -1,0 +1,9 @@
+C:\Users\marco\Downloads\materiales\Nueva carpeta\DesAEA-master\UniversityDB\bin\Debug\UniversityDB.dacpac
+C:\Users\marco\Downloads\materiales\Nueva carpeta\DesAEA-master\UniversityDB\bin\Debug\UniversityDB.dll
+C:\Users\marco\Downloads\materiales\Nueva carpeta\DesAEA-master\UniversityDB\bin\Debug\UniversityDB.pdb
+C:\Users\marco\Downloads\materiales\Nueva carpeta\DesAEA-master\UniversityDB\obj\Debug\Model.xml
+C:\Users\marco\Downloads\materiales\Nueva carpeta\DesAEA-master\UniversityDB\obj\Debug\refactor.xml
+C:\Users\marco\Downloads\materiales\Nueva carpeta\DesAEA-master\UniversityDB\obj\Debug\postdeploy.sql
+C:\Users\marco\Downloads\materiales\Nueva carpeta\DesAEA-master\UniversityDB\obj\Debug\predeploy.sql
+C:\Users\marco\Downloads\materiales\Nueva carpeta\DesAEA-master\UniversityDB\obj\Debug\UniversityDB.dll
+C:\Users\marco\Downloads\materiales\Nueva carpeta\DesAEA-master\UniversityDB\obj\Debug\UniversityDB.pdb
